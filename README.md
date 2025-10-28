@@ -3,4 +3,4 @@ Independent financial and strategy review of Zurich Airport (Flughafen Zürich A
 
 Disclaimer: This case is purely illustrative and academic. It is not affiliated with or endorsed by Privia Health or its stakeholders.
 
-📄 [Download the PDF](./Zurich%20Airport.pdf.pdf)
+📄 [Download the PDF](./Zurich%20Airport.pdf)
